@@ -9,3 +9,13 @@ Unity (Windows)
 - Stop service
 
 import this asset in makes it possible.
+
+# 3rd party notice
+
+System.ServiceProcess.ServiceController, MIT
+
+https://licenses.nuget.org/MIT
+
+# LICENSE
+
+MIT
