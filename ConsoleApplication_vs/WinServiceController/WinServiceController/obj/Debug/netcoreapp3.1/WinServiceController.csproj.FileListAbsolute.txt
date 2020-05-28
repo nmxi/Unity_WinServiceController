@@ -1,0 +1,17 @@
+C:\Users\mikki\source\repos\WinServiceController\WinServiceController\bin\Debug\netcoreapp3.1\WinServiceController.exe
+C:\Users\mikki\source\repos\WinServiceController\WinServiceController\obj\Debug\netcoreapp3.1\WinServiceController.AssemblyInfoInputs.cache
+C:\Users\mikki\source\repos\WinServiceController\WinServiceController\obj\Debug\netcoreapp3.1\WinServiceController.AssemblyInfo.cs
+C:\Users\mikki\source\repos\WinServiceController\WinServiceController\bin\Debug\netcoreapp3.1\WinServiceController.deps.json
+C:\Users\mikki\source\repos\WinServiceController\WinServiceController\bin\Debug\netcoreapp3.1\WinServiceController.runtimeconfig.json
+C:\Users\mikki\source\repos\WinServiceController\WinServiceController\bin\Debug\netcoreapp3.1\WinServiceController.runtimeconfig.dev.json
+C:\Users\mikki\source\repos\WinServiceController\WinServiceController\bin\Debug\netcoreapp3.1\WinServiceController.dll
+C:\Users\mikki\source\repos\WinServiceController\WinServiceController\bin\Debug\netcoreapp3.1\WinServiceController.pdb
+C:\Users\mikki\source\repos\WinServiceController\WinServiceController\bin\Debug\netcoreapp3.1\System.Diagnostics.EventLog.dll
+C:\Users\mikki\source\repos\WinServiceController\WinServiceController\bin\Debug\netcoreapp3.1\System.ServiceProcess.ServiceController.dll
+C:\Users\mikki\source\repos\WinServiceController\WinServiceController\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+C:\Users\mikki\source\repos\WinServiceController\WinServiceController\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
+C:\Users\mikki\source\repos\WinServiceController\WinServiceController\obj\Debug\netcoreapp3.1\WinServiceController.csproj.CoreCompileInputs.cache
+C:\Users\mikki\source\repos\WinServiceController\WinServiceController\obj\Debug\netcoreapp3.1\WinServiceController.csproj.CopyComplete
+C:\Users\mikki\source\repos\WinServiceController\WinServiceController\obj\Debug\netcoreapp3.1\WinServiceController.dll
+C:\Users\mikki\source\repos\WinServiceController\WinServiceController\obj\Debug\netcoreapp3.1\WinServiceController.pdb
+C:\Users\mikki\source\repos\WinServiceController\WinServiceController\obj\Debug\netcoreapp3.1\WinServiceController.genruntimeconfig.cache
