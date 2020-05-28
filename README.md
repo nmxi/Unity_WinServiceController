@@ -1,9 +1,11 @@
 # Unity_WinServiceController
 
-Unity(Windows)上で
+![https://i.imgur.com/77ZFqLg.gif](https://i.imgur.com/77ZFqLg.gif)
 
-- サービスのステータスを取得
-- サービスの開始
-- サービスの停止
+Unity (Windows)
 
-を行えるようにするアセット
+- Get service status
+- Start of service
+- Stop service
+
+import this asset in makes it possible.
